@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.pay-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.connection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
